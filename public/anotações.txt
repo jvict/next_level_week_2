@@ -1,0 +1,29 @@
+!+ enter - Constroi toda a base do html automatico no VScode
+
+ShortCuts
+
+crtl + / = Colocar comentario na linha
+
+# - Para o ID
+. - Para o Class
+
+font-weight - intensidade da letra
+font-family - fonte Poppins
+font-size - Tamanho da letra
+opacity - 0 a 1
+display: flex; - coloca os itens um ao lado do outro
+display: block; - o item ocupa a linha toda jogando para baixao qualquer elemento que este ao seu lado
+
+> - usando esta seta indica que vc esta pegando o primeiro nivel de algum elemento que esta aparecendo 
+
+<small></small> - Texto pequeno
+
+transform:translateY(-5px); - Faz o elemento subir quando aplicado com transição.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Instando NODE 
+
+npm init -y : Para começar um projeto novo
+
+
+npm- gerenciamento de pacotes do node
